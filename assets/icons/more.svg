@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lnr-chevron-right</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.0-Home" transform="translate(-347.000000, -323.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Featured" transform="translate(20.000000, 312.000000)">
+                <g id="lnr-chevron-right" transform="translate(327.000000, 11.000000)">
+                    <path d="M0.727272727,11.4 C0.634181818,11.4 0.541090909,11.3706 0.469818182,11.3124 C0.328,11.1954 0.328,11.0052 0.469818182,10.8882 L6.75781818,5.7006 L0.469818182,0.513 C0.328,0.396 0.328,0.2058 0.469818182,0.0888 C0.611636364,-0.0282 0.842181818,-0.0282 0.984,0.0888 L7.52945455,5.4888 C7.67127273,5.6058 7.67127273,5.796 7.52945455,5.913 L0.984,11.313 C0.912727273,11.3718 0.819636364,11.4006 0.726545455,11.4006 L0.727272727,11.4 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
